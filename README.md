@@ -1,0 +1,1 @@
+<h1>Factory homework</h1>
